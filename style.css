@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.logo{
+    width: 104px;
+    height: 45px;
+}
+
+ul{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.nav-items{
+display: flex;
+align-items: center;
+flex-direction: row;
+
+
+
+}
+
